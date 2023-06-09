@@ -20,6 +20,6 @@ python separator.py
 ```
 
 # References
-[Torchvision Semantic Segmentation – PyTorch for Beginners](https://learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/)
+[Torchvision Semantic Segmentation – PyTorch for Beginners](https://learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/)   
 [Applications of Foreground-Background separation with Semantic Segmentation](https://learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/)
 
